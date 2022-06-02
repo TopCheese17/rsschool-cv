@@ -4,4 +4,4 @@
 **Имя** Павел
 **Отчество** Викторович
 **Телефон** 8(913)-750-46-43
-**email** lanterngrey"gmail.com
+**email** lanterngrey@gmail.com
